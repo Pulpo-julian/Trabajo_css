@@ -107,6 +107,9 @@ body {
     transition: 50ms;
 }
 
+
+
+
 .titulo_1 {
     font-size: 45px;
     text-align: center;
@@ -150,7 +153,6 @@ body {
 /* Position the tooltip */
     position: absolute;
     z-index: 1;
-
     width: 120px;
     bottom: 100%;
     left: 50%;
@@ -230,3 +232,4 @@ img:hover {
     margin: 20px 0;
     
 }
+
